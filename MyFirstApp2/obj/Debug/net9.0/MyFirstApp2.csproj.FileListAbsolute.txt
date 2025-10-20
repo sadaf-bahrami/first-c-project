@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\bin\Debug\net9.0\MyFirstApp2.exe
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\bin\Debug\net9.0\MyFirstApp2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\bin\Debug\net9.0\MyFirstApp2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\bin\Debug\net9.0\MyFirstApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\bin\Debug\net9.0\MyFirstApp2.pdb
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\refint\MyFirstApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.pdb
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\MyFirstApp2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\MyFirstApp2\obj\Debug\net9.0\ref\MyFirstApp2.dll
