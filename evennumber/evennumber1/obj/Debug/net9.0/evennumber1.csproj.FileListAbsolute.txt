@@ -1,0 +1,14 @@
+C:\Users\ASUS\evennumber\evennumber1\bin\Debug\net9.0\evennumber1.exe
+C:\Users\ASUS\evennumber\evennumber1\bin\Debug\net9.0\evennumber1.deps.json
+C:\Users\ASUS\evennumber\evennumber1\bin\Debug\net9.0\evennumber1.runtimeconfig.json
+C:\Users\ASUS\evennumber\evennumber1\bin\Debug\net9.0\evennumber1.dll
+C:\Users\ASUS\evennumber\evennumber1\bin\Debug\net9.0\evennumber1.pdb
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.AssemblyInfoInputs.cache
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.AssemblyInfo.cs
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.dll
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\refint\evennumber1.dll
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.pdb
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\evennumber1.genruntimeconfig.cache
+C:\Users\ASUS\evennumber\evennumber1\obj\Debug\net9.0\ref\evennumber1.dll
