@@ -1,0 +1,14 @@
+C:\Users\ASUS\rishe\rishe2\bin\Debug\net9.0\rishe2.exe
+C:\Users\ASUS\rishe\rishe2\bin\Debug\net9.0\rishe2.deps.json
+C:\Users\ASUS\rishe\rishe2\bin\Debug\net9.0\rishe2.runtimeconfig.json
+C:\Users\ASUS\rishe\rishe2\bin\Debug\net9.0\rishe2.dll
+C:\Users\ASUS\rishe\rishe2\bin\Debug\net9.0\rishe2.pdb
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.AssemblyInfoInputs.cache
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.AssemblyInfo.cs
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.dll
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\refint\rishe2.dll
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.pdb
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\rishe2.genruntimeconfig.cache
+C:\Users\ASUS\rishe\rishe2\obj\Debug\net9.0\ref\rishe2.dll
