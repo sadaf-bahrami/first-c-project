@@ -1,0 +1,14 @@
+C:\Users\ASUS\minmax\maxmin1\bin\Debug\net9.0\maxmin1.exe
+C:\Users\ASUS\minmax\maxmin1\bin\Debug\net9.0\maxmin1.deps.json
+C:\Users\ASUS\minmax\maxmin1\bin\Debug\net9.0\maxmin1.runtimeconfig.json
+C:\Users\ASUS\minmax\maxmin1\bin\Debug\net9.0\maxmin1.dll
+C:\Users\ASUS\minmax\maxmin1\bin\Debug\net9.0\maxmin1.pdb
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.AssemblyInfoInputs.cache
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.AssemblyInfo.cs
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.dll
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\refint\maxmin1.dll
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.pdb
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\maxmin1.genruntimeconfig.cache
+C:\Users\ASUS\minmax\maxmin1\obj\Debug\net9.0\ref\maxmin1.dll
