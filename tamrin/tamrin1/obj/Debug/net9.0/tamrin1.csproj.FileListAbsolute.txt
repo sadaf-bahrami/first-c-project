@@ -1,0 +1,14 @@
+C:\Users\ASUS\tamrin\tamrin1\bin\Debug\net9.0\tamrin1.exe
+C:\Users\ASUS\tamrin\tamrin1\bin\Debug\net9.0\tamrin1.deps.json
+C:\Users\ASUS\tamrin\tamrin1\bin\Debug\net9.0\tamrin1.runtimeconfig.json
+C:\Users\ASUS\tamrin\tamrin1\bin\Debug\net9.0\tamrin1.dll
+C:\Users\ASUS\tamrin\tamrin1\bin\Debug\net9.0\tamrin1.pdb
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.AssemblyInfoInputs.cache
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.AssemblyInfo.cs
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.dll
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\refint\tamrin1.dll
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.pdb
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\tamrin1.genruntimeconfig.cache
+C:\Users\ASUS\tamrin\tamrin1\obj\Debug\net9.0\ref\tamrin1.dll
