@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\bin\Debug\net9.0\myapp1.exe
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\bin\Debug\net9.0\myapp1.deps.json
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\bin\Debug\net9.0\myapp1.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\bin\Debug\net9.0\myapp1.dll
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\bin\Debug\net9.0\myapp1.pdb
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.dll
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\refint\myapp1.dll
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.pdb
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\myapp1.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\myapp\myapp1\obj\Debug\net9.0\ref\myapp1.dll
