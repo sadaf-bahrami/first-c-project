@@ -1,0 +1,14 @@
+C:\Users\ASUS\trueprint\trueprint1\bin\Debug\net9.0\trueprint1.exe
+C:\Users\ASUS\trueprint\trueprint1\bin\Debug\net9.0\trueprint1.deps.json
+C:\Users\ASUS\trueprint\trueprint1\bin\Debug\net9.0\trueprint1.runtimeconfig.json
+C:\Users\ASUS\trueprint\trueprint1\bin\Debug\net9.0\trueprint1.dll
+C:\Users\ASUS\trueprint\trueprint1\bin\Debug\net9.0\trueprint1.pdb
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.AssemblyInfoInputs.cache
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.AssemblyInfo.cs
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.dll
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\refint\trueprint1.dll
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.pdb
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\trueprint1.genruntimeconfig.cache
+C:\Users\ASUS\trueprint\trueprint1\obj\Debug\net9.0\ref\trueprint1.dll
