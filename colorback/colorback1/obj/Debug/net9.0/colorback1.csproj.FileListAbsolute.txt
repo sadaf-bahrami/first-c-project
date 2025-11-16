@@ -1,0 +1,14 @@
+C:\Users\ASUS\colorback\colorback1\bin\Debug\net9.0\colorback1.exe
+C:\Users\ASUS\colorback\colorback1\bin\Debug\net9.0\colorback1.deps.json
+C:\Users\ASUS\colorback\colorback1\bin\Debug\net9.0\colorback1.runtimeconfig.json
+C:\Users\ASUS\colorback\colorback1\bin\Debug\net9.0\colorback1.dll
+C:\Users\ASUS\colorback\colorback1\bin\Debug\net9.0\colorback1.pdb
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.AssemblyInfoInputs.cache
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.AssemblyInfo.cs
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.dll
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\refint\colorback1.dll
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.pdb
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\colorback1.genruntimeconfig.cache
+C:\Users\ASUS\colorback\colorback1\obj\Debug\net9.0\ref\colorback1.dll
