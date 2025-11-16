@@ -1,0 +1,14 @@
+C:\Users\ASUS\sumshow\summ1\bin\Debug\net9.0\summ1.exe
+C:\Users\ASUS\sumshow\summ1\bin\Debug\net9.0\summ1.deps.json
+C:\Users\ASUS\sumshow\summ1\bin\Debug\net9.0\summ1.runtimeconfig.json
+C:\Users\ASUS\sumshow\summ1\bin\Debug\net9.0\summ1.dll
+C:\Users\ASUS\sumshow\summ1\bin\Debug\net9.0\summ1.pdb
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.AssemblyInfoInputs.cache
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.AssemblyInfo.cs
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.dll
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\refint\summ1.dll
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.pdb
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\summ1.genruntimeconfig.cache
+C:\Users\ASUS\sumshow\summ1\obj\Debug\net9.0\ref\summ1.dll
