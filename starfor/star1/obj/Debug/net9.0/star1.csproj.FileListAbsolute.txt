@@ -1,0 +1,14 @@
+C:\Users\ASUS\starfor\star1\bin\Debug\net9.0\star1.exe
+C:\Users\ASUS\starfor\star1\bin\Debug\net9.0\star1.deps.json
+C:\Users\ASUS\starfor\star1\bin\Debug\net9.0\star1.runtimeconfig.json
+C:\Users\ASUS\starfor\star1\bin\Debug\net9.0\star1.dll
+C:\Users\ASUS\starfor\star1\bin\Debug\net9.0\star1.pdb
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.AssemblyInfoInputs.cache
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.AssemblyInfo.cs
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.dll
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\refint\star1.dll
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.pdb
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\star1.genruntimeconfig.cache
+C:\Users\ASUS\starfor\star1\obj\Debug\net9.0\ref\star1.dll
