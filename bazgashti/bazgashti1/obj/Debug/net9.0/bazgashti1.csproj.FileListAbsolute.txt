@@ -1,0 +1,14 @@
+C:\Users\ASUS\bazgashti\bazgashti1\bin\Debug\net9.0\bazgashti1.exe
+C:\Users\ASUS\bazgashti\bazgashti1\bin\Debug\net9.0\bazgashti1.deps.json
+C:\Users\ASUS\bazgashti\bazgashti1\bin\Debug\net9.0\bazgashti1.runtimeconfig.json
+C:\Users\ASUS\bazgashti\bazgashti1\bin\Debug\net9.0\bazgashti1.dll
+C:\Users\ASUS\bazgashti\bazgashti1\bin\Debug\net9.0\bazgashti1.pdb
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.AssemblyInfoInputs.cache
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.AssemblyInfo.cs
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.dll
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\refint\bazgashti1.dll
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.pdb
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\bazgashti1.genruntimeconfig.cache
+C:\Users\ASUS\bazgashti\bazgashti1\obj\Debug\net9.0\ref\bazgashti1.dll
