@@ -1,0 +1,14 @@
+C:\Users\ASUS\panjadad\panjadad1\bin\Debug\net9.0\panjadad1.exe
+C:\Users\ASUS\panjadad\panjadad1\bin\Debug\net9.0\panjadad1.deps.json
+C:\Users\ASUS\panjadad\panjadad1\bin\Debug\net9.0\panjadad1.runtimeconfig.json
+C:\Users\ASUS\panjadad\panjadad1\bin\Debug\net9.0\panjadad1.dll
+C:\Users\ASUS\panjadad\panjadad1\bin\Debug\net9.0\panjadad1.pdb
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.AssemblyInfoInputs.cache
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.AssemblyInfo.cs
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.dll
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\refint\panjadad1.dll
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.pdb
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\panjadad1.genruntimeconfig.cache
+C:\Users\ASUS\panjadad\panjadad1\obj\Debug\net9.0\ref\panjadad1.dll
