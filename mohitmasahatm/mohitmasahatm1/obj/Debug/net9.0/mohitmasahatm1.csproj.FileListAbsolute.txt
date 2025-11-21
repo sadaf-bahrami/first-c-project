@@ -1,0 +1,14 @@
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\bin\Debug\net9.0\mohitmasahatm1.exe
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\bin\Debug\net9.0\mohitmasahatm1.deps.json
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\bin\Debug\net9.0\mohitmasahatm1.runtimeconfig.json
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\bin\Debug\net9.0\mohitmasahatm1.dll
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\bin\Debug\net9.0\mohitmasahatm1.pdb
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.AssemblyInfoInputs.cache
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.AssemblyInfo.cs
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.dll
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\refint\mohitmasahatm1.dll
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.pdb
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\mohitmasahatm1.genruntimeconfig.cache
+C:\Users\ASUS\mohitmasahatm\mohitmasahatm1\obj\Debug\net9.0\ref\mohitmasahatm1.dll
