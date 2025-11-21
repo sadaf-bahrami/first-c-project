@@ -1,0 +1,14 @@
+C:\Users\ASUS\week\weeknumber\bin\Debug\net9.0\weeknumber.exe
+C:\Users\ASUS\week\weeknumber\bin\Debug\net9.0\weeknumber.deps.json
+C:\Users\ASUS\week\weeknumber\bin\Debug\net9.0\weeknumber.runtimeconfig.json
+C:\Users\ASUS\week\weeknumber\bin\Debug\net9.0\weeknumber.dll
+C:\Users\ASUS\week\weeknumber\bin\Debug\net9.0\weeknumber.pdb
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.AssemblyInfoInputs.cache
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.AssemblyInfo.cs
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.dll
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\refint\weeknumber.dll
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.pdb
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\weeknumber.genruntimeconfig.cache
+C:\Users\ASUS\week\weeknumber\obj\Debug\net9.0\ref\weeknumber.dll
