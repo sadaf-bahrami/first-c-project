@@ -1,0 +1,14 @@
+C:\Users\ASUS\starharf\starharf1\bin\Debug\net9.0\starharf1.exe
+C:\Users\ASUS\starharf\starharf1\bin\Debug\net9.0\starharf1.deps.json
+C:\Users\ASUS\starharf\starharf1\bin\Debug\net9.0\starharf1.runtimeconfig.json
+C:\Users\ASUS\starharf\starharf1\bin\Debug\net9.0\starharf1.dll
+C:\Users\ASUS\starharf\starharf1\bin\Debug\net9.0\starharf1.pdb
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.AssemblyInfoInputs.cache
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.AssemblyInfo.cs
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.dll
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\refint\starharf1.dll
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.pdb
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\starharf1.genruntimeconfig.cache
+C:\Users\ASUS\starharf\starharf1\obj\Debug\net9.0\ref\starharf1.dll
