@@ -1,0 +1,14 @@
+C:\Users\ASUS\zarb\zarb1\bin\Debug\net9.0\zarb1.exe
+C:\Users\ASUS\zarb\zarb1\bin\Debug\net9.0\zarb1.deps.json
+C:\Users\ASUS\zarb\zarb1\bin\Debug\net9.0\zarb1.runtimeconfig.json
+C:\Users\ASUS\zarb\zarb1\bin\Debug\net9.0\zarb1.dll
+C:\Users\ASUS\zarb\zarb1\bin\Debug\net9.0\zarb1.pdb
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.AssemblyInfoInputs.cache
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.AssemblyInfo.cs
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.dll
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\refint\zarb1.dll
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.pdb
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\zarb1.genruntimeconfig.cache
+C:\Users\ASUS\zarb\zarb1\obj\Debug\net9.0\ref\zarb1.dll
